@@ -6496,7 +6496,7 @@
     "source": "luma"
   }
 ]
-    </script>
+  </script>
 
   <script>
     const TZ = "Europe/London";
@@ -6725,7 +6725,12 @@
         .filter(ev => state.type === "tutti" || (ev.types || []).includes(state.type))
         .filter(ev => !state.cardsOnly || ev.goodForCards === true)
         .filter(ev => matchesQuery(ev, state.q))
-        .filter(ev => eventYear(ev) >= cy)
+        .filter(ev => {
+          // Tieni solo eventi da meno di 7 giorni fa in poi
+          const start = new Date(ev.startISO);
+          const ageMs = now - start;
+          return ageMs <= 7 * 86400000;
+        })
         .sort((a, b) => new Date(a.startISO) - new Date(b.startISO));
     }
 
