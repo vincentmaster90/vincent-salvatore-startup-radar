@@ -101,6 +101,36 @@
       letter-spacing: -0.03em;
     }
     .subtitle { margin: 0; color: var(--muted); max-width: 62ch; font-size: 0.98rem; }
+
+    .filters-toggle {
+      width: 100%;
+      display: flex; align-items: center; justify-content: space-between; gap: 12px;
+      appearance: none; border: none; background: transparent;
+      color: var(--text); cursor: pointer; text-align: left;
+      padding: 2px 0 4px; font: inherit;
+    }
+    .filters-toggle:hover .filters-toggle-title { color: var(--accent); }
+    .filters-toggle-title {
+      font-size: 0.95rem; font-weight: 750; letter-spacing: -0.01em;
+    }
+    .filters-toggle-meta {
+      color: var(--muted); font-size: 0.82rem; font-weight: 500;
+      margin-top: 2px;
+    }
+    .filters-chevron {
+      flex: 0 0 auto;
+      width: 34px; height: 34px; border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--bg-elev);
+      display: grid; place-items: center;
+      transition: transform .18s ease;
+      font-size: 16px; line-height: 1; color: var(--muted);
+    }
+    .filters.collapsed .filters-chevron { transform: rotate(-90deg); }
+    .filters-body { margin-top: 12px; }
+    .filters.collapsed .filters-body { display: none; }
+    .filters.collapsed { padding-top: 12px; padding-bottom: 12px; }
+
     .filters {
       position: sticky; top: 0; z-index: 20;
       margin-bottom: 16px; padding: 14px;
@@ -252,7 +282,15 @@
       <p class="subtitle" data-i18n="subtitle">Radar eventi dell’ecosistema tech e startup: pitch, demo day, VC, networking. Mondo intero, tutto l’anno.</p>
     </header>
 
-    <section class="filters" aria-label="Filters">
+    <section class="filters" id="filters" aria-label="Filters">
+      <button type="button" class="filters-toggle" id="filters-toggle" aria-expanded="true" aria-controls="filters-body">
+        <span>
+          <div class="filters-toggle-title" data-i18n="filtersTitle">Filtri</div>
+          <div class="filters-toggle-meta" id="filters-summary" data-i18n="filtersHint">Tocca per aprire o chiudere</div>
+        </span>
+        <span class="filters-chevron" aria-hidden="true">▾</span>
+      </button>
+      <div class="filters-body" id="filters-body">
       <div class="filter-block">
         <span class="filter-label" data-i18n="f1">1. Online o in presenza?</span>
         <div class="chips" role="group">
@@ -324,6 +362,7 @@
       <div class="toolbar">
         <div class="count" id="count">…</div>
         <button type="button" class="btn-ghost" id="btn-reset" data-i18n="reset">Azzera filtri</button>
+      </div>
       </div>
     </section>
 
@@ -6530,6 +6569,10 @@
         cardsOnly: "Solo utili per networking (biglietto da visita)",
         cardsTip: "Se spunti questa casella, restano solo gli eventi utili per presentarti e lasciare il biglietto da visita. Se è spenta, vedi tutti.",
         reset: "Azzera filtri",
+        filtersTitle: "Filtri",
+        filtersHint: "Tocca per aprire o chiudere",
+        filtersOpen: "Filtri aperti",
+        filtersClosed: "Filtri chiusi — tocca per aprire",
         footer: "Vincent Salvatore Startup Radar · eventi tech & startup · mondo · aggiornato dal radar 08:53",
         shown: "Mostrati",
         of: "di",
@@ -6577,6 +6620,10 @@
         cardsOnly: "Networking-friendly only (hand out cards)",
         cardsTip: "When checked, only events where it makes sense to introduce yourself and hand out a business card. When off, you see everything.",
         reset: "Reset filters",
+        filtersTitle: "Filters",
+        filtersHint: "Tap to open or close",
+        filtersOpen: "Filters open",
+        filtersClosed: "Filters closed — tap to open",
         footer: "Vincent Salvatore Startup Radar · tech & startup events · worldwide · updated by 08:53 radar",
         shown: "Showing",
         of: "of",
@@ -6828,6 +6875,9 @@
         return;
       }
       list.innerHTML = filtered.map(ev => renderCard(ev, now)).join("");
+      if (document.getElementById("filters")?.classList.contains("collapsed")) {
+        setFiltersCollapsed(true);
+      }
     }
 
     function resetFilters() {
@@ -6845,6 +6895,26 @@
       document.getElementById("f-q").value = "";
       syncPlaceVisibility();
       render();
+    }
+
+
+    function setFiltersCollapsed(collapsed) {
+      const box = document.getElementById("filters");
+      const btn = document.getElementById("filters-toggle");
+      const summary = document.getElementById("filters-summary");
+      if (!box || !btn) return;
+      box.classList.toggle("collapsed", collapsed);
+      btn.setAttribute("aria-expanded", collapsed ? "false" : "true");
+      localStorage.setItem("vsRadarFiltersCollapsed", collapsed ? "1" : "0");
+      if (summary) {
+        if (collapsed) {
+          const count = document.getElementById("count");
+          const extra = count ? count.textContent.replace(/\s+/g, " ").trim() : "";
+          summary.textContent = extra ? (t("filtersClosed") + " · " + extra) : t("filtersClosed");
+        } else {
+          summary.textContent = t("filtersOpen");
+        }
+      }
     }
 
     async function init() {
@@ -6903,8 +6973,20 @@
       });
       document.getElementById("btn-reset").addEventListener("click", resetFilters);
 
+      const savedCollapse = localStorage.getItem("vsRadarFiltersCollapsed");
+      const preferCollapsed = savedCollapse === "1" || (savedCollapse === null && window.matchMedia("(max-width: 900px)").matches);
+      document.getElementById("filters-toggle").addEventListener("click", () => {
+        const box = document.getElementById("filters");
+        setFiltersCollapsed(!box.classList.contains("collapsed"));
+      });
+      setFiltersCollapsed(preferCollapsed);
+
       syncPlaceVisibility();
       render();
+      // refresh summary text after render when collapsed
+      if (document.getElementById("filters").classList.contains("collapsed")) {
+        setFiltersCollapsed(true);
+      }
     }
 
     init();
