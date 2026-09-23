@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="robots" content="noindex, nofollow" />
   <meta name="referrer" content="no-referrer" />
-  <meta name="description" content="Vincent Salvatore Startup Radar — pitch/VC events worldwide. Filter by month, place, online/offline. Light/dark. IT/EN." />
+  <meta name="description" content="Vincent Salvatore Startup Radar — tech & startup ecosystem events worldwide. Pitch, VC, demo days. London." />
   <title>Vincent Salvatore Startup Radar</title>
   <style>
     :root, [data-theme="dark"] {
@@ -241,7 +241,7 @@
   <div class="wrap">
     <header class="hero">
       <div class="topbar">
-        <div class="owner" data-i18n="owner">Di Vincent Salvatore · Bath, UK</div>
+        <div class="owner" data-i18n="owner">Di Vincent Salvatore · London</div>
         <div class="prefs" aria-label="Preferences">
           <button type="button" class="pref-btn" id="btn-theme" title="Theme">🌙</button>
           <button type="button" class="pref-btn" id="btn-lang-it" data-lang="it">IT</button>
@@ -249,7 +249,7 @@
         </div>
       </div>
       <h1>Vincent Salvatore Startup Radar</h1>
-      <p class="subtitle" data-i18n="subtitle">Filtri incrociati: mese + luogo + online/presenza + tipo. Tutto il mondo, tutto l’anno.</p>
+      <p class="subtitle" data-i18n="subtitle">Radar eventi dell’ecosistema tech e startup: pitch, demo day, VC, networking. Mondo intero, tutto l’anno.</p>
     </header>
 
     <section class="filters" aria-label="Filters">
@@ -314,11 +314,12 @@
 
       <div class="search-row">
         <input type="search" id="f-q" data-i18n-placeholder="searchPh" placeholder="Cerca testo…" autocomplete="off" />
-        <label class="check-row" for="f-cards">
+        <label class="check-row" for="f-cards" data-i18n-title="cardsTip" title="Se spunti, vedi solo eventi dove ha senso presentarti e lasciare il biglietto da visita.">
           <input type="checkbox" id="f-cards" />
-          <span data-i18n="cardsOnly">Solo business card</span>
+          <span data-i18n="cardsOnly">Solo utili per networking (biglietto da visita)</span>
         </label>
       </div>
+      <p class="subtitle" style="margin:8px 0 0;font-size:0.85rem;" data-i18n="cardsTip">Se spunti questa casella, restano solo gli eventi utili per presentarti e lasciare il biglietto da visita. Se è spenta, vedi tutti.</p>
 
       <div class="toolbar">
         <div class="count" id="count">…</div>
@@ -6508,8 +6509,8 @@
 
     const I18N = {
       it: {
-        owner: "Di Vincent Salvatore · Bath, UK",
-        subtitle: "Filtri incrociati: mese + luogo + online/presenza + tipo. Tutto il mondo, tutto l’anno. Un tap apre la registrazione.",
+        owner: "Di Vincent Salvatore · London",
+        subtitle: "Radar eventi dell’ecosistema tech e startup: pitch, demo day, VC, networking. Mondo intero, tutto l’anno. Filtra e apri per registrarti.",
         f1: "1. Online o in presenza?",
         f2: "2. Dove in presenza (online ignora questo)",
         f3: "3. Mese",
@@ -6526,9 +6527,10 @@
         allMonths: "Tutti i mesi",
         conference: "Conferenza",
         searchPh: "Cerca: ottobre, Londra, pitch…",
-        cardsOnly: "Solo business card",
+        cardsOnly: "Solo utili per networking (biglietto da visita)",
+        cardsTip: "Se spunti questa casella, restano solo gli eventi utili per presentarti e lasciare il biglietto da visita. Se è spenta, vedi tutti.",
         reset: "Azzera filtri",
-        footer: "Vincent Salvatore Startup Radar · mondo · tutto l’anno · tu filtri e ti registri · radar 08:53",
+        footer: "Vincent Salvatore Startup Radar · eventi tech & startup · mondo · aggiornato dal radar 08:53",
         shown: "Mostrati",
         of: "di",
         filters: "filtri",
@@ -6539,8 +6541,8 @@
         topic: "Topic",
         price: "Prezzo",
         dist: "Distanza da Bath",
-        cardsYes: "Business card: SÌ",
-        cardsNo: "Business card: NO / medio",
+        cardsYes: "Buono per networking",
+        cardsNo: "Networking debole / no",
         soonChip: "Prossimi 14 gg",
         inPerson: "In presenza",
         onlineLbl: "Online",
@@ -6554,8 +6556,8 @@
         zone: { sud:"Sud UK", centro:"Centro UK", nord:"Nord UK", galles:"Galles", londra:"Londra", bristol_bath:"Bath–Bristol", eu_west:"Europa Ovest", eu_other:"Europa", europe:"Europa", eu:"Europa", us:"USA/Canada", na:"Nord America", asia:"Asia", other:"Mondo", world:"Mondo" }
       },
       en: {
-        owner: "By Vincent Salvatore · Bath, UK",
-        subtitle: "Cross filters: month + place + online/in-person + type. Worldwide, all year. One tap opens registration.",
+        owner: "By Vincent Salvatore · London",
+        subtitle: "Tech & startup ecosystem event radar: pitch, demo days, VC, networking. Worldwide, all year. Filter and open to register.",
         f1: "1. Online or in person?",
         f2: "2. In-person place (ignored for online)",
         f3: "3. Month",
@@ -6572,9 +6574,10 @@
         allMonths: "All months",
         conference: "Conference",
         searchPh: "Search: October, London, pitch…",
-        cardsOnly: "Business-card friendly only",
+        cardsOnly: "Networking-friendly only (hand out cards)",
+        cardsTip: "When checked, only events where it makes sense to introduce yourself and hand out a business card. When off, you see everything.",
         reset: "Reset filters",
-        footer: "Vincent Salvatore Startup Radar · world · all year · you filter & register · 08:53 radar",
+        footer: "Vincent Salvatore Startup Radar · tech & startup events · worldwide · updated by 08:53 radar",
         shown: "Showing",
         of: "of",
         filters: "filters",
@@ -6585,8 +6588,8 @@
         topic: "Topic",
         price: "Price",
         dist: "Distance from Bath",
-        cardsYes: "Business card: YES",
-        cardsNo: "Business card: NO / maybe",
+        cardsYes: "Good for networking",
+        cardsNo: "Weak / no networking",
         soonChip: "Next 14 days",
         inPerson: "In person",
         onlineLbl: "Online",
