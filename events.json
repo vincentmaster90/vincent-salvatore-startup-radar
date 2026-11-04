@@ -1,126 +1,5 @@
 [
   {
-    "id": "luma-evt-GbXwJY84zCFLPAl",
-    "name": "TIE Roundtable Lunch London x Venture Leaders FinTech",
-    "startISO": "2026-10-27T12:30:00.000Z",
-    "endISO": "2026-10-27T14:30:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "The Conduit",
-    "city": "London",
-    "topic": "TIE Roundtable Lunch London x Venture Leaders FinTech",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 155,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/reoczlw9",
-    "notes": "Fonte Luma · TIE Partners · Host: Christian Winkler, Jonas Hartmann, Michael Wieser",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-SlW4fdsOlzNfeMR",
-    "name": "Lessons in Fundraising, Scaling and Mental Toughness w/ Quinten Selhorst (Partner @EWOR, Co-Founder @Felyx ($80M raised + exited))",
-    "startISO": "2026-10-27T18:00:00.000Z",
-    "endISO": "2026-10-27T20:00:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "London, United Kingdom",
-    "city": "London",
-    "topic": "Lessons in Fundraising, Scaling and Mental Toughness w/ Quinten Selhorst (Partner @EWOR, Co-Founder @Felyx ($80M raised + exited))",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 155,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/ey57kwtv",
-    "notes": "Fonte Luma · UCL Entrepreneurs · Host: EWOR Team, Philipp Scholz, UCL Entrepeneurs",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-gaGHX92MzjVkcaQ",
-    "name": "Unlocking Japan: Investor Night in London",
-    "startISO": "2026-10-27T18:00:00.000Z",
-    "endISO": "2026-10-27T21:00:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "London, United Kingdom",
-    "city": "London",
-    "topic": "Unlocking Japan: Investor Night in London",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 156,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/ach1w3rc",
-    "notes": "Fonte Luma · Shibuya Startup Support · Host: Shibuya Startup Support",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-bTfzO4oa6iQmOKd",
-    "name": "Startup Funding & Networking: VCs, Angels & Founders",
-    "startISO": "2026-10-27T18:30:00.000Z",
-    "endISO": "2026-10-27T19:30:00.000Z",
-    "format": "offline",
-    "venue": "Singer Tavern",
-    "address": "Singer Tavern",
-    "city": "London",
-    "topic": "Startup Funding & Networking: VCs, Angels & Founders",
-    "price": "£10",
-    "priceNote": "da Luma ticket_info",
-    "audience": "Founders / investors / startup community",
-    "distKm": 158,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/ntl-zz8h",
-    "notes": "Fonte Luma · Networx London - Connect & Grow · Host: Networx London",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "eb-startup-funding-networking-vcs-angels-20261027",
-    "name": "Startup Funding & Networking: VCs, Angels & Founders",
-    "startISO": "2026-10-27T18:30:00Z",
-    "endISO": "2026-10-27T21:30:00Z",
-    "format": "offline",
-    "venue": "Singer Tavern",
-    "address": "1 City Road, London, EC2A 2BH",
-    "city": "London",
-    "topic": "Startup funding networking — VCs, angels & founders",
-    "price": "see_eventbrite",
-    "priceNote": "Vedi Eventbrite",
-    "audience": "Founders / VCs / angels",
-    "distKm": 158.2,
-    "distNote": "da Bath centre",
-    "url": "https://www.eventbrite.co.uk/e/startup-funding-networking-vcs-angels-founders-tickets-2001893649796",
-    "notes": "Fonte Eventbrite · funding networking London",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking",
-      "Pitch"
-    ],
-    "zone": "londra",
-    "source": "eventbrite"
-  },
-  {
     "id": "luma-evt-z5S735AJzDQEZhN",
     "name": "A Physical AI Demo Day by AWS & Liminal",
     "startISO": "2026-10-28T06:00:00.000Z",
@@ -1389,6 +1268,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-0ynfVNGpfaeCLv7",
+    "name": "New AI safety organisations: MATS pitches at LISA",
+    "startISO": "2026-11-04T18:00:00.000Z",
+    "endISO": "2026-11-04T21:00:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "69 Wilson St, Moorgate",
+    "city": "London",
+    "topic": "New AI safety organisations: MATS pitches at LISA",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 158,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/u4r3v8lw",
+    "notes": "Fonte Luma · Personal · Host: Will Kirby, Patryk Wielopolski, Oliver Kurilov",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-9ybaonHP6EVbpok",
     "name": "START your night UP | Founders in Tech & Innovation Meet Up by Envolve x CapsuleT Accelerator x Metavallon VC x The Hellenic Initiative UK",
     "startISO": "2026-11-04T18:30:00.000Z",
@@ -1992,6 +1895,30 @@
     "types": [
       "VC/Angel networking",
       "Conferenza/Fiera"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-rH3bFDaWNDKckJP",
+    "name": "Founders & Investors Panel",
+    "startISO": "2026-11-09T18:00:00.000Z",
+    "endISO": "2026-11-09T20:00:00.000Z",
+    "format": "offline",
+    "venue": "City & Guilds Building",
+    "address": "City & Guilds Building",
+    "city": "London",
+    "topic": "Founders & Investors Panel",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 152,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/4b3ou6vn",
+    "notes": "Fonte Luma · Imperial AI Week (9th-15 Nov) · Host: Imperial AI",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
     ],
     "zone": "londra",
     "source": "luma"
@@ -3638,6 +3565,31 @@
     "distNote": "da Bath centre (~155 km)"
   },
   {
+    "id": "eb-gesawards-european-semifinals-demo-day-20261124",
+    "name": "GESAwards 2026: European Semi-Finals Demo Day (online)",
+    "startISO": "2026-11-24T14:00:00Z",
+    "endISO": "2026-11-24T16:00:00Z",
+    "format": "online",
+    "venue": "Online",
+    "address": "Online (Eventbrite / Zoom)",
+    "city": "Online",
+    "topic": "10 European EdTech startups pitch for place at GESAwards Global Finals (Bett UK 2027)",
+    "price": "see_eventbrite",
+    "priceNote": "Vedi Eventbrite",
+    "audience": "EdTech founders / investors / ecosystem",
+    "distKm": null,
+    "distNote": "online",
+    "url": "https://www.eventbrite.co.uk/e/gesawards-2026-european-semi-finals-demo-day-tickets-2003139092950",
+    "notes": "Fonte Eventbrite · DOHE EdTech Hub · online semi-finals",
+    "goodForCards": false,
+    "types": [
+      "demo",
+      "pitch"
+    ],
+    "zone": "online",
+    "source": "eventbrite"
+  },
+  {
     "id": "luma-evt-AJszcBMI10gVHqK",
     "name": "Seed Run is back!",
     "startISO": "2026-11-24T17:30:00.000Z",
@@ -3866,6 +3818,32 @@
     "source": "web"
   },
   {
+    "id": "luma-bitelabs-demo-day-london-20261126",
+    "name": "BiteLabs Digital Health & Innovation Demo Day (Autumn 2026)",
+    "startISO": "2026-11-26T17:45:00Z",
+    "endISO": "2026-11-26T22:15:00Z",
+    "format": "offline",
+    "venue": "Accurx (address on approval)",
+    "address": "London (shared after Luma approval)",
+    "city": "London",
+    "topic": "Clinician-founded healthtech pitches + Pulse Angels external pitch slots; investors/clinicians",
+    "price": "Free",
+    "priceNote": "Gratuito (approval required su Luma)",
+    "audience": "Clinicians / healthtech founders / investors / health-system leaders",
+    "distKm": 156,
+    "distNote": "~156 km da Bath (London)",
+    "url": "https://luma.com/m178u59r",
+    "notes": "Fonte Luma/web · Accurx London · collaboration Pulse Angels · healthtech",
+    "goodForCards": true,
+    "types": [
+      "demo",
+      "pitch",
+      "vc"
+    ],
+    "zone": "londra",
+    "source": "web"
+  },
+  {
     "id": "pitch-perfect-bioeconomy-2026",
     "name": "Pitch Perfect: The European Bioeconomy 2026",
     "startISO": "2026-11-30T09:00:00+01:00",
@@ -3964,6 +3942,58 @@
     "types": [
       "Demo day",
       "Pitch"
+    ],
+    "zone": "londra",
+    "source": "web"
+  },
+  {
+    "id": "web-insurtech-uk-christmas-pitching-20261201",
+    "name": "Insurtech UK Christmas Pitching & Drinks",
+    "startISO": "2026-12-01T16:00:00Z",
+    "endISO": "2026-12-01T19:30:00Z",
+    "format": "offline",
+    "venue": "Mastercard",
+    "address": "1 Angel Lane, London EC4R 3AB",
+    "city": "London",
+    "topic": "Curated insurtech startup pitches + festive investor/industry drinks",
+    "price": "see_site",
+    "priceNote": "Vedi Glue Up / Insurtech UK",
+    "audience": "Insurtech founders / investors / industry leaders",
+    "distKm": 156,
+    "distNote": "~156 km da Bath (London)",
+    "url": "https://insurtechuk.glueup.com/event/insurtech-uk-christmas-pitching-drinks-188617/",
+    "notes": "Fonte web · Insurtech UK end-of-year pitching session @ Mastercard",
+    "goodForCards": true,
+    "types": [
+      "pitch",
+      "vc"
+    ],
+    "zone": "londra",
+    "source": "web"
+  },
+  {
+    "id": "web-deeptech-catalyst-demo-day-ukbaa-20261202",
+    "name": "DeepTech Catalyst Demo Day 2026 (UKBAA)",
+    "startISO": "2026-12-02T09:00:00Z",
+    "endISO": "2026-12-02T17:00:00Z",
+    "format": "offline",
+    "venue": "One Great George Street",
+    "address": "One Great George Street, London SW1P 3AA",
+    "city": "London",
+    "topic": "12 UK deeptech startups pitching (~£3-8M raises) + 25 exhibitors; life sciences/space/quantum",
+    "price": "members",
+    "priceNote": "UKBAA members / login required",
+    "audience": "Angels / deeptech investors / UKBAA members",
+    "distKm": 156,
+    "distNote": "~156 km da Bath (London)",
+    "url": "https://ukbaa.org.uk/events/deeptech-catalyst-demo-day-2026/",
+    "notes": "Fonte UKBAA · member-gated details · deeptech pitch/demo day London",
+    "goodForCards": true,
+    "types": [
+      "demo",
+      "pitch",
+      "vc",
+      "angel"
     ],
     "zone": "londra",
     "source": "web"
@@ -4072,6 +4102,32 @@
     "source": "web"
   },
   {
+    "id": "eb-svs-demo-day-surrey-20261203",
+    "name": "SVS Demo Day — Surrey Venture Studio (Mercedes-Benz World)",
+    "startISO": "2026-12-03T13:30:00Z",
+    "endISO": "2026-12-03T18:00:00Z",
+    "format": "offline",
+    "venue": "Mercedes-Benz World",
+    "address": "Brooklands Drive, Weybridge KT13 0SL",
+    "city": "Weybridge",
+    "topic": "8 accelerator startups pitch + exhibition; investors/partners networking",
+    "price": "see_eventbrite",
+    "priceNote": "Vedi Eventbrite",
+    "audience": "Investors / entrepreneurs / ecosystem partners",
+    "distKm": 131,
+    "distNote": "~131 km da Bath (Weybridge)",
+    "url": "https://www.eventbrite.co.uk/e/svs-demo-day-tickets-2003909208386",
+    "notes": "Fonte Eventbrite · Surrey Venture Studio Winter Accelerator · South UK",
+    "goodForCards": true,
+    "types": [
+      "demo",
+      "pitch",
+      "vc"
+    ],
+    "zone": "sud_uk",
+    "source": "eventbrite"
+  },
+  {
     "id": "eb-startup-demo-day-netherlands-2026-12-03",
     "name": "Startup Demo Day Netherlands 2026 | Pitch to Investors (online) — LAUNEXT",
     "startISO": "2026-12-03T15:00:00+01:00",
@@ -4149,6 +4205,31 @@
     ]
   },
   {
+    "id": "eb-biotech-pitch-london-founders-network-20261207",
+    "name": "BioTech, Pharma, MedTech Networking & Pitch Event — London (7 Dec)",
+    "startISO": "2026-12-07T19:00:00Z",
+    "endISO": "2026-12-07T22:00:00Z",
+    "format": "offline",
+    "venue": "The Refinery",
+    "address": "110 Southwark Street, London SE1 9AN",
+    "city": "London",
+    "topic": "1-min elevator pitches + biotech/pharma/medtech founder–investor networking",
+    "price": "see_eventbrite",
+    "priceNote": "Vedi Eventbrite",
+    "audience": "Biotech founders / VCs / life-science professionals",
+    "distKm": 156,
+    "distNote": "~156 km da Bath (London)",
+    "url": "https://www.eventbrite.co.uk/e/biotech-pharma-medtech-networking-pitch-event-in-london-tickets-2004084836695",
+    "notes": "Fonte Eventbrite · London Founders Network · elevator pitch format",
+    "goodForCards": true,
+    "types": [
+      "pitch",
+      "vc"
+    ],
+    "zone": "londra",
+    "source": "eventbrite"
+  },
+  {
     "id": "eb-rev-london-december-2026-12-08",
     "name": "rev™ London December 2026: UK's top VCs Pitch to You!",
     "startISO": "2026-12-08T14:00:00+00:00",
@@ -4224,6 +4305,32 @@
       "Deal flow"
     ],
     "zone": "londra"
+  },
+  {
+    "id": "web-pitchup-tech-southwest-20261209",
+    "name": "PitchUp! Tech South West (online) — 9 Dec",
+    "startISO": "2026-12-09T10:00:00Z",
+    "endISO": "2026-12-09T11:00:00Z",
+    "format": "online",
+    "venue": "Online",
+    "address": "Online (Tech South West)",
+    "city": "Online",
+    "topic": "Monthly online pitch session for South West tech founders to investor panel",
+    "price": "Free",
+    "priceNote": "Gratuito (registrazione audience sul sito TSW)",
+    "audience": "South West founders / angels / VCs",
+    "distKm": null,
+    "distNote": "online (South West focus)",
+    "url": "https://www.techsouthwest.co.uk/funding-finance-programme/pitchup/#dec9-2026",
+    "notes": "Fonte Tech South West · priorità South UK · audience 10–11am 9 Dec",
+    "goodForCards": false,
+    "types": [
+      "pitch",
+      "vc",
+      "angel"
+    ],
+    "zone": "online",
+    "source": "web"
   },
   {
     "id": "web-accelerateher-showcase-aberdeen-20261209",
