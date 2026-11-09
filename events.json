@@ -1,199 +1,5 @@
 [
   {
-    "id": "luma-evt-kUGWn1o0YMBNFPz",
-    "name": "Founder Park_AGI Playground Founder Show @Singapore",
-    "startISO": "2026-10-30T06:00:00.000Z",
-    "endISO": "2026-10-30T10:00:00.000Z",
-    "format": "offline",
-    "venue": "Singapore",
-    "address": "Singapore",
-    "city": "Singapore",
-    "topic": "Founder Park_AGI Playground Founder Show @Singapore",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": null,
-    "url": "https://luma.com/yevjd99y",
-    "notes": "Fonte Luma · Founder Park (Global Ready Community) · Host: FounderPark, B71 Singapore",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "asia",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-EZvD61M4TKaLwLy",
-    "name": "Founder x Investor: Fundraising for Hardware",
-    "startISO": "2026-10-30T09:30:00.000Z",
-    "endISO": "2026-10-30T12:30:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "London, United Kingdom",
-    "city": "London",
-    "topic": "Founder x Investor: Fundraising for Hardware",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 158,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/pxd98uez",
-    "notes": "Fonte Luma · Grishin Robotics VC · Host: Pallavi Jayashankar, Tatiana Klim, IDEALondon",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-If3vdbsomoE0DN4",
-    "name": "NYC Frontier Hackathon: Build your Autonomous Code Factory",
-    "startISO": "2026-10-30T13:30:00.000Z",
-    "endISO": "2026-10-30T21:00:00.000Z",
-    "format": "offline",
-    "venue": "New York, NY",
-    "address": "New York, NY",
-    "city": "New York",
-    "topic": "NYC Frontier Hackathon: Build your Autonomous Code Factory",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": null,
-    "url": "https://luma.com/frontierNYC2",
-    "notes": "Fonte Luma · Obvious Community Events · Host: Obvious, Jon Bell",
-    "goodForCards": true,
-    "types": [
-      "Workshop"
-    ],
-    "zone": "us",
-    "source": "luma"
-  },
-  {
-    "audience": "Investors / VCs / angels / F&B founders",
-    "priceNote": "Eventbrite reports sold out",
-    "notes": "Fonte Eventbrite · Funding Gap Consulting · Round 2 · toward Nov final",
-    "goodForCards": true,
-    "source": "eventbrite",
-    "id": "web-f7b-fb-investment-round2-london-2026-10-30",
-    "name": "F7B Food & Beverage Investment Series — Round 2",
-    "startISO": "2026-10-30T14:00:00.000Z",
-    "endISO": "2026-10-30T17:00:00.000Z",
-    "format": "offline",
-    "venue": "TIDE Bankside",
-    "address": "135 Park Street, London SE1 9EA",
-    "city": "London",
-    "topic": "Round 2 live F&B founder pitches; co-investment open to VCs/angels (£2m series mandate)",
-    "price": "Sold out (verifica Eventbrite)",
-    "distKm": 159,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://www.eventbrite.com/e/food-beverage-event-round-2-food-beverage-investment-series-tickets-1992203585553",
-    "types": [
-      "Pitch",
-      "Investor",
-      "Fundraising"
-    ],
-    "zone": "londra"
-  },
-  {
-    "id": "luma-evt-IXqNwWXL7gjvPbO",
-    "name": "AI Founders Breakfast Club. Saturday 31st October",
-    "startISO": "2026-10-31T09:30:00.000Z",
-    "endISO": "2026-10-31T11:30:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "14 Clerkenwell Grn",
-    "city": "London",
-    "topic": "AI Founders Breakfast Club. Saturday 31st October",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 157,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/06cjzhx9",
-    "notes": "Fonte Luma · Personal · Host: Leo Tyson",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-bScaY0gEiPsl49n",
-    "name": "EF saturday_club",
-    "startISO": "2026-10-31T09:30:00.000Z",
-    "endISO": "2026-10-31T11:30:00.000Z",
-    "format": "offline",
-    "venue": "London, England",
-    "address": "London, England",
-    "city": "London",
-    "topic": "EF saturday_club — Entrepreneurs First",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 159,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/h30swzvz",
-    "notes": "Fonte Luma · Entrepreneurs First · Host: Entrepreneurs First, Nick Sopuch, Emily Atherton",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-DsGigxBSyYgrXkx",
-    "name": "Future Founders Lab: Kingston University x Culture Curated",
-    "startISO": "2026-11-01T10:30:00.000Z",
-    "endISO": "2026-11-01T17:00:00.000Z",
-    "format": "offline",
-    "venue": "Kingston upon Thames, United Kingdom",
-    "address": "Kingston upon Thames, United Kingdom",
-    "city": "Kingston upon Thames",
-    "topic": "Future Founders Lab: Kingston University x Culture Curated",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 142,
-    "distNote": "~142 km da Bath",
-    "url": "https://luma.com/dsk9t8sg",
-    "notes": "Fonte Luma · Personal · Host: Sima Rahman-Huang, Mahshid Atabaki, Ishan Tandel",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "sud",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-cQE6HSoYAsRauAk",
-    "name": "Horror Demo Night - Generathon #3 × Paris Creator Week",
-    "startISO": "2026-11-01T15:00:00.000Z",
-    "endISO": "2026-11-01T19:00:00.000Z",
-    "format": "offline",
-    "venue": "Paris, France",
-    "address": "La Cristallerie",
-    "city": "Paris",
-    "topic": "Horror Demo Night - Generathon #3 × Paris Creator Week",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": null,
-    "url": "https://luma.com/5dumglvo",
-    "notes": "Fonte Luma · Generathon - The future of content creation · Host: Roland Sosin, Le Motif",
-    "goodForCards": true,
-    "types": [
-      "Demo day"
-    ],
-    "zone": "eu_west",
-    "source": "luma"
-  },
-  {
     "id": "luma-evt-Fia5HPhS9WfnNrK",
     "name": "Is Your Dream VC Into You? (Metal x Corgi)",
     "startISO": "2026-11-02T09:30:00.000Z",
@@ -610,32 +416,6 @@
     "source": "luma"
   },
   {
-    "id": "web-unicorn-pitches-gsd-demo-day-2026-11-04",
-    "name": "Unicorn Pitches — GSD Demo Day (online)",
-    "startISO": "2026-11-04T10:00:00-08:00",
-    "endISO": "2026-11-04T12:00:00-08:00",
-    "format": "online",
-    "venue": "Online (Zoom)",
-    "address": "Online",
-    "city": "Online",
-    "topic": "Startup pitch a VC, business angel e investitori internazionali",
-    "price": "Gratis / Free (guest)",
-    "priceNote": "registrazione sul sito",
-    "audience": "Startups, VCs, angels",
-    "distKm": null,
-    "distNote": "Online — remote",
-    "url": "https://unicorn.events/46059083/",
-    "notes": "Fonte Unicorn Pitches · Zoom · 10:00 PT (18:00 UK)",
-    "goodForCards": false,
-    "types": [
-      "Demo day",
-      "Pitch",
-      "VC/Angel networking"
-    ],
-    "zone": "online",
-    "source": "web"
-  },
-  {
     "id": "luma-evt-AaAI1313ud7Q64J",
     "name": "Real Futures: Pitch Day",
     "startISO": "2026-11-04T14:00:00.000Z",
@@ -755,6 +535,32 @@
     ],
     "zone": "londra",
     "source": "luma"
+  },
+  {
+    "id": "web-unicorn-pitches-gsd-demo-day-2026-11-04",
+    "name": "Unicorn Pitches — GSD Demo Day (online)",
+    "startISO": "2026-11-04T10:00:00-08:00",
+    "endISO": "2026-11-04T12:00:00-08:00",
+    "format": "online",
+    "venue": "Online (Zoom)",
+    "address": "Online",
+    "city": "Online",
+    "topic": "Startup pitch a VC, business angel e investitori internazionali",
+    "price": "Gratis / Free (guest)",
+    "priceNote": "registrazione sul sito",
+    "audience": "Startups, VCs, angels",
+    "distKm": null,
+    "distNote": "Online — remote",
+    "url": "https://unicorn.events/46059083/",
+    "notes": "Fonte Unicorn Pitches · Zoom · 10:00 PT (18:00 UK)",
+    "goodForCards": false,
+    "types": [
+      "Demo day",
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "online",
+    "source": "web"
   },
   {
     "id": "luma-evt-BCyYYY4MD33ybEt",
@@ -1071,31 +877,6 @@
     "source": "luma"
   },
   {
-    "id": "web-pitchforce-seed-virtual-2026-11-05",
-    "name": "Seed Round Virtual PitchForce (5 Nov)",
-    "startISO": "2026-11-05T15:00:00-08:00",
-    "endISO": "2026-11-05T17:00:00-08:00",
-    "format": "online",
-    "venue": "Online (Zoom)",
-    "address": "Online",
-    "city": "Online",
-    "topic": "6 startup seed pitch 4 min a panel di investitori, Q&A e feedback",
-    "price": "Gratis / Free",
-    "priceNote": "registrazione sul sito",
-    "audience": "Founders, investors",
-    "distKm": null,
-    "distNote": "Online — remote",
-    "url": "https://events.pitch-force.com/events/seed-round-virtual-pitchforce-20",
-    "notes": "Fonte PitchForce/EcoVG · Zoom webinar · 15:00 PT (23:00 UK)",
-    "goodForCards": false,
-    "types": [
-      "Pitch",
-      "VC/Angel networking"
-    ],
-    "zone": "online",
-    "source": "web"
-  },
-  {
     "format": "offline",
     "venue": "Blake Morgan",
     "address": "Central Square One, Cardiff",
@@ -1193,6 +974,31 @@
     ],
     "zone": "londra",
     "source": "luma"
+  },
+  {
+    "id": "web-pitchforce-seed-virtual-2026-11-05",
+    "name": "Seed Round Virtual PitchForce (5 Nov)",
+    "startISO": "2026-11-05T15:00:00-08:00",
+    "endISO": "2026-11-05T17:00:00-08:00",
+    "format": "online",
+    "venue": "Online (Zoom)",
+    "address": "Online",
+    "city": "Online",
+    "topic": "6 startup seed pitch 4 min a panel di investitori, Q&A e feedback",
+    "price": "Gratis / Free",
+    "priceNote": "registrazione sul sito",
+    "audience": "Founders, investors",
+    "distKm": null,
+    "distNote": "Online — remote",
+    "url": "https://events.pitch-force.com/events/seed-round-virtual-pitchforce-20",
+    "notes": "Fonte PitchForce/EcoVG · Zoom webinar · 15:00 PT (23:00 UK)",
+    "goodForCards": false,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "online",
+    "source": "web"
   },
   {
     "id": "luma-evt-sFATJjXg2Uobhb1",
@@ -1437,6 +1243,31 @@
     "source": "luma"
   },
   {
+    "id": "web-international-pitch-night-lisbon-20261109",
+    "name": "International Pitch Night — Unicorn Factory Lisboa (Web Summit week)",
+    "startISO": "2026-11-09T18:00:00+00:00",
+    "endISO": "2026-11-09T23:00:00+00:00",
+    "format": "offline",
+    "venue": "Unicorn Stage — Beato Innovation District",
+    "address": "Rua da Manutenção 71, 1900-500 Lisboa, Portugal",
+    "city": "Lisbon",
+    "topic": "Pitch competition internazionale (PT, PL, NL, KR, BR) davanti a giuria di investitori + networking",
+    "price": "Vedi evento",
+    "priceNote": "prezzo non pubblicato sulla pagina",
+    "audience": "Startups / investors / ecosystem",
+    "distKm": 1501,
+    "distNote": "~1501 km da Bath · volo corto",
+    "url": "https://en.beato.unicornfactorylisboa.com/events/international-pitch-night-2026",
+    "notes": "Fonte web · 18:00–23:00 ora di Lisbona (= UK) · aggiunto 9 Nov 2026",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "web"
+  },
+  {
     "id": "eb-biotech-pharma-medtech-pitch-london-2026-11-09",
     "name": "BioTech, Pharma, MedTech Networking & Pitch Event — London",
     "startISO": "2026-11-09T19:00:00+00:00",
@@ -1558,6 +1389,31 @@
       "Fundraising"
     ],
     "zone": "nord",
+    "source": "web"
+  },
+  {
+    "id": "web-startupvalley-amsterdam-20261110",
+    "name": "Startup Valley Pitch Night — Amsterdam (10 Nov)",
+    "startISO": "2026-11-10T17:00:00+00:00",
+    "endISO": "2026-11-10T20:00:00+00:00",
+    "format": "offline",
+    "venue": "I Dock",
+    "address": "IJdok 4, 1013 MM Amsterdam, Netherlands",
+    "city": "Amsterdam",
+    "topic": "5 pitch live di startup con Q&A investitori (angel/VC) + networking",
+    "price": "Da $25",
+    "priceNote": "biglietti da $25 su Luma/Eventbrite; investitori gratis su approvazione",
+    "audience": "Founders / investors / operators",
+    "distKm": 510,
+    "distNote": "~510 km da Bath · volo corto",
+    "url": "https://startupvalley.club/events/amsterdam-2026-11-10",
+    "notes": "Fonte web · 18:00–21:00 ora locale · aggiunto 9 Nov 2026",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
     "source": "web"
   },
   {
@@ -1798,6 +1654,30 @@
     "goodForCards": true,
     "types": [
       "Demo day"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-ZSrNYbAaHBdcN4w",
+    "name": "Diwali: South Asian Founders & VCs Mixer",
+    "startISO": "2026-11-10T23:30:00.000Z",
+    "endISO": "2026-11-11T01:30:00.000Z",
+    "format": "offline",
+    "venue": "New York, NY",
+    "address": "New York, NY",
+    "city": "New York",
+    "topic": "Mixer Diwali per founder sud-asiatici e VC (Inception Capital, Flow by Oasis HQ)",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito (approvazione richiesta)",
+    "audience": "Founders / investors / startup community",
+    "distKm": 5427,
+    "distNote": "~5427 km da Bath · volo intercontinentale",
+    "url": "https://luma.com/k6w2m8ar",
+    "notes": "Fonte Luma · Flow by Oasis HQ · Host: Bria, Inception Capital, Sonia · 10 Nov 18:30–20:30 ET · indirizzo dopo registrazione",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
     ],
     "zone": "us",
     "source": "luma"
@@ -2273,6 +2153,31 @@
     "source": "luma"
   },
   {
+    "id": "web-startupvalley-singapore-20261112",
+    "name": "Startup Valley Pitch Night — Singapore (12 Nov)",
+    "startISO": "2026-11-12T11:00:00+00:00",
+    "endISO": "2026-11-12T14:00:00+00:00",
+    "format": "offline",
+    "venue": "No.5 Emerald Hill",
+    "address": "5 Emerald Hill Road, Singapore 229289",
+    "city": "Singapore",
+    "topic": "Pitch live di startup con Q&A investitori + networking tech",
+    "price": "Gratis (early spots)",
+    "priceNote": "free early spots aperti; poi a pagamento",
+    "audience": "Founders / investors / operators",
+    "distKm": 11007,
+    "distNote": "~11007 km da Bath · volo intercontinentale",
+    "url": "https://startupvalley.club/events/singapore-2026-11-12",
+    "notes": "Fonte web · 19:00–22:00 ora di Singapore · aggiunto 9 Nov 2026",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "asia",
+    "source": "web"
+  },
+  {
     "id": "web-silicon-gorge-velocity-bristol-2026-11-12",
     "name": "Silicon Gorge Velocity Showcase — techSPARK (Brazen Festival)",
     "startISO": "2026-11-12T14:00:00+00:00",
@@ -2323,32 +2228,6 @@
       "VC/Angel networking",
       "Fundraising"
     ]
-  },
-  {
-    "id": "web-demo-day-la-nerdstage-2026-11-12",
-    "name": "Demo Day LA — November 2026 (Nerdstage)",
-    "startISO": "2026-11-12T17:30:00-08:00",
-    "endISO": "2026-11-12T21:00:00-08:00",
-    "format": "offline",
-    "venue": "BLANKSPACES Venice",
-    "address": "606 Venice Blvd., Venice, CA 90291, USA",
-    "city": "Los Angeles",
-    "topic": "Startup pitches & demos davanti ad angel/VC + fireside + demo tables",
-    "price": "~$39 GA",
-    "priceNote": "General Admission ~$39 · Startup Demo ticket separato · Luma",
-    "audience": "Founders, angels, VCs, LA tech community",
-    "distKm": null,
-    "distNote": "USA West Coast",
-    "url": "https://luma.com/DemoDayNov",
-    "notes": "Fonte Luma / Nerdstage · Demo Day LA series",
-    "goodForCards": false,
-    "types": [
-      "Demo day",
-      "Pitch",
-      "VC/Angel networking"
-    ],
-    "zone": "us",
-    "source": "web"
   },
   {
     "id": "web-aib-pitch-event-bristol-2026-11-12",
@@ -2450,6 +2329,31 @@
     "source": "web"
   },
   {
+    "id": "luma-evt-vZWwWgpb2GCWPr8",
+    "name": "BritChip Pitching: Meet the Latest UK Semiconductor Startups",
+    "startISO": "2026-11-12T21:30:00.000Z",
+    "endISO": "2026-11-13T01:00:00.000Z",
+    "format": "offline",
+    "venue": "Palo Alto, CA",
+    "address": "Palo Alto, CA",
+    "city": "Palo Alto",
+    "topic": "ChipStart UK: pitch delle ultime startup UK di semiconduttori a investitori Silicon Valley",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito (approvazione richiesta)",
+    "audience": "Founders / investors / startup community",
+    "distKm": 8536,
+    "distNote": "~8536 km da Bath · volo intercontinentale",
+    "url": "https://luma.com/sr3k586q",
+    "notes": "Fonte Luma · ChipStart UK · Host: Russell Haggar, jillian@siliconcatalyst.com, Deidre Moore · 12 Nov 13:30–17:00 PT · indirizzo dopo registrazione",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
     "id": "web-pitchforce-seed-virtual-2026-11-12",
     "name": "Seed Round Virtual PitchForce",
     "startISO": "2026-11-12T23:00:00Z",
@@ -2496,6 +2400,56 @@
       "Demo day"
     ],
     "zone": "us",
+    "source": "luma"
+  },
+  {
+    "id": "web-demo-day-la-nerdstage-2026-11-12",
+    "name": "Demo Day LA — November 2026 (Nerdstage)",
+    "startISO": "2026-11-12T17:30:00-08:00",
+    "endISO": "2026-11-12T21:00:00-08:00",
+    "format": "offline",
+    "venue": "BLANKSPACES Venice",
+    "address": "606 Venice Blvd., Venice, CA 90291, USA",
+    "city": "Los Angeles",
+    "topic": "Startup pitches & demos davanti ad angel/VC + fireside + demo tables",
+    "price": "~$39 GA",
+    "priceNote": "General Admission ~$39 · Startup Demo ticket separato · Luma",
+    "audience": "Founders, angels, VCs, LA tech community",
+    "distKm": null,
+    "distNote": "USA West Coast",
+    "url": "https://luma.com/DemoDayNov",
+    "notes": "Fonte Luma / Nerdstage · Demo Day LA series",
+    "goodForCards": false,
+    "types": [
+      "Demo day",
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "us",
+    "source": "web"
+  },
+  {
+    "id": "luma-evt-uZV0zBISxwyGGDF",
+    "name": "Founder x Investor: Fundraising for Robotics & Physical AI",
+    "startISO": "2026-11-13T09:30:00.000Z",
+    "endISO": "2026-11-13T12:30:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "Founder x Investor (Grishin Robotics VC): fundraising per startup robotics & physical AI",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito (approvazione richiesta)",
+    "audience": "Founders / investors / startup community",
+    "distKm": 158,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/tpmc1dl4",
+    "notes": "Fonte Luma · Grishin Robotics VC · Host: Pallavi Jayashankar, Tatiana Klim, Dmitry Grishin · 13 Nov 09:30–12:30 · indirizzo dopo registrazione",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
     "source": "luma"
   },
   {
@@ -2647,6 +2601,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-AXlXfxOjoHzi6gq",
+    "name": "International Scaling & Growth: What Capital Looks For in Innovation",
+    "startISO": "2026-11-17T18:00:00.000Z",
+    "endISO": "2026-11-17T21:00:00.000Z",
+    "format": "offline",
+    "venue": "Impact Hub London Euston",
+    "address": "Impact Hub London Euston, 1 Triton Square, London NW1 3DX, UK",
+    "city": "London",
+    "topic": "ESCP Blue Factory: scaling internazionale e cosa cercano gli investitori nelle startup innovative",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 155,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/fuhtrgrv",
+    "notes": "Fonte Luma · ESCP Blue Factory · Host: Alice Ivanoff, Charlotte NEUVILLE · 17 Nov 18:00–21:00",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
     "id": "eb-tech-startup-founders-pitch-vc-scouts-20261117",
     "name": "Tech Startup Founders Pitch Competition with Venture Capital Scouts",
     "startISO": "2026-11-17T18:15:00Z",
@@ -2747,6 +2725,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-X23E1wKbfvUUzws",
+    "name": "Beyond Capital 2026",
+    "startISO": "2026-11-18T13:00:00.000Z",
+    "endISO": "2026-11-18T18:30:00.000Z",
+    "format": "offline",
+    "venue": "Paris, France",
+    "address": "Le Village by CA",
+    "city": "Paris",
+    "topic": "Beyond Capital 2026",
+    "price": "€19",
+    "priceNote": "da Luma ticket_info",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/bc2026",
+    "notes": "Fonte Luma · France Angels · Host: Sylvain Godard, Lison, Isis Escudero",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "luma"
+  },
+  {
     "id": "web-startup-colorado-demo-days-2026-11-18",
     "name": "Startup Colorado — November Demo Days (virtual)",
     "startISO": "2026-11-18T12:00:00-07:00",
@@ -2770,30 +2772,6 @@
     ],
     "zone": "online",
     "source": "web"
-  },
-  {
-    "id": "luma-evt-X23E1wKbfvUUzws",
-    "name": "Beyond Capital 2026",
-    "startISO": "2026-11-18T13:00:00.000Z",
-    "endISO": "2026-11-18T18:30:00.000Z",
-    "format": "offline",
-    "venue": "Paris, France",
-    "address": "Le Village by CA",
-    "city": "Paris",
-    "topic": "Beyond Capital 2026",
-    "price": "€19",
-    "priceNote": "da Luma ticket_info",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": null,
-    "url": "https://luma.com/bc2026",
-    "notes": "Fonte Luma · France Angels · Host: Sylvain Godard, Lison, Isis Escudero",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "eu_west",
-    "source": "luma"
   },
   {
     "id": "luma-evt-2OqQQGsypqBuYDd",
@@ -2971,6 +2949,32 @@
     "source": "web"
   },
   {
+    "id": "web-inception-super-duper-demo-day-iv-20261119",
+    "name": "Inception Super Duper Demo Day IV (Palo Alto + livestream)",
+    "startISO": "2026-11-20T00:00:00+00:00",
+    "endISO": "2026-11-20T03:00:00+00:00",
+    "format": "hybrid",
+    "venue": "Palo Alto, CA (indirizzo dopo registrazione)",
+    "address": "Palo Alto, CA, USA",
+    "city": "Palo Alto",
+    "topic": "Demo day: founder seriali AI-native pitchano a investitori; reception con founder e VC",
+    "price": "Gratis (GA sold out)",
+    "priceNote": "General Admission esaurito; ticket Active Investors / Virtual livestream su approvazione",
+    "audience": "Investors / founders / advisors",
+    "distKm": 8536,
+    "distNote": "~8536 km da Bath · volo intercontinentale",
+    "url": "https://luma.com/f38khcnl",
+    "notes": "Fonte Luma/web · 19 Nov 16:00–19:00 PT · aggiunto 9 Nov 2026",
+    "goodForCards": true,
+    "types": [
+      "Demo day",
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "us",
+    "source": "web"
+  },
+  {
     "id": "web-supercrowd-live-pitch-q4-2026-11-20",
     "name": "Live Pitch Q4 2026 — The Super Crowd (online)",
     "startISO": "2026-11-20T01:00:00+00:00",
@@ -3099,31 +3103,6 @@
     ]
   },
   {
-    "id": "web-startup-canada-equal-slice-pitch-2026-11-24",
-    "name": "Startup Canada Equal Slice — Virtual Pitch Competition",
-    "startISO": "2026-11-24T09:00:00-08:00",
-    "endISO": "2026-11-24T15:00:00-08:00",
-    "format": "online",
-    "venue": "Online (Zoom)",
-    "address": "Online",
-    "city": "Online",
-    "topic": "Pitch competition virtuale, $100k in grant per founder early-stage",
-    "price": "Gratis / Free",
-    "priceNote": "registrazione sul sito",
-    "audience": "Early-stage founders (sottorappresentati), judges",
-    "distKm": null,
-    "distNote": "Online — remote",
-    "url": "https://luma.com/b4q7jfdl",
-    "notes": "Fonte Luma/Startup Canada · Zoom · 09:00 PT (17:00 UK) · iscrizione per pitch su candidatura",
-    "goodForCards": false,
-    "types": [
-      "Pitch",
-      "Fundraising"
-    ],
-    "zone": "online",
-    "source": "web"
-  },
-  {
     "id": "ukbaa-investment-futures-2026-11-24",
     "name": "Investment Futures — UKBAA",
     "startISO": "2026-11-24T12:00:00+00:00",
@@ -3199,6 +3178,31 @@
     ],
     "zone": "online",
     "source": "eventbrite"
+  },
+  {
+    "id": "web-startup-canada-equal-slice-pitch-2026-11-24",
+    "name": "Startup Canada Equal Slice — Virtual Pitch Competition",
+    "startISO": "2026-11-24T09:00:00-08:00",
+    "endISO": "2026-11-24T15:00:00-08:00",
+    "format": "online",
+    "venue": "Online (Zoom)",
+    "address": "Online",
+    "city": "Online",
+    "topic": "Pitch competition virtuale, $100k in grant per founder early-stage",
+    "price": "Gratis / Free",
+    "priceNote": "registrazione sul sito",
+    "audience": "Early-stage founders (sottorappresentati), judges",
+    "distKm": null,
+    "distNote": "Online — remote",
+    "url": "https://luma.com/b4q7jfdl",
+    "notes": "Fonte Luma/Startup Canada · Zoom · 09:00 PT (17:00 UK) · iscrizione per pitch su candidatura",
+    "goodForCards": false,
+    "types": [
+      "Pitch",
+      "Fundraising"
+    ],
+    "zone": "online",
+    "source": "web"
   },
   {
     "id": "luma-evt-AJszcBMI10gVHqK",
@@ -4046,6 +4050,57 @@
     "source": "web"
   },
   {
+    "id": "web-campus-founders-demo-day-9-20261209",
+    "name": "Campus Founders Demo Day #9 (Heilbronn)",
+    "startISO": "2026-12-09T14:00:00+00:00",
+    "endISO": "2026-12-09T21:00:00+00:00",
+    "format": "offline",
+    "venue": "Gravity (Campus Founders)",
+    "address": "Bildungscampus 11, 74076 Heilbronn, Germany",
+    "city": "Heilbronn",
+    "topic": "Demo day accelerator: 18 startup AI/B2B pitch live + demo a investitori early-stage e corporate",
+    "price": "Su candidatura",
+    "priceNote": "guest list curata (registrazione/approvazione); prezzo non indicato",
+    "audience": "Investors / corporates / ecosystem",
+    "distKm": 858,
+    "distNote": "~858 km da Bath · volo corto",
+    "url": "https://campusfounders.de/demo-day/",
+    "notes": "Fonte web · 15:00–22:00 ora locale · aggiunto 9 Nov 2026",
+    "goodForCards": true,
+    "types": [
+      "Demo day",
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "web"
+  },
+  {
+    "id": "web-road-to-start-summit-munich-20261209",
+    "name": "Road to START Summit 2026 (Munich)",
+    "startISO": "2026-12-09T16:00:00+00:00",
+    "endISO": "2026-12-09T21:00:00+00:00",
+    "format": "offline",
+    "venue": "Freiheitshalle München",
+    "address": "Rainer-Werner-Fassbinder-Platz 1, 80636 München, Germany",
+    "city": "Munich",
+    "topic": "Pitch competition DeepTech (8 startup pre-seed/seed) con giuria VC (UVC Partners, Climate Founders); premio CHF 10k",
+    "price": "A pagamento — vedi Luma",
+    "priceNote": "Student / Standard / Supporter ticket su Luma",
+    "audience": "Founders / investors / students",
+    "distKm": 1059,
+    "distNote": "~1059 km da Bath · volo corto",
+    "url": "https://luma.com/road-to-start-summit",
+    "notes": "Fonte web/Luma · START Munich · 17:00–22:00 ora locale · aggiunto 9 Nov 2026",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "web"
+  },
+  {
     "format": "online",
     "venue": "Online",
     "address": "Online",
@@ -4151,6 +4206,31 @@
     ]
   },
   {
+    "id": "web-calmar-pitch-deck-roast-20261215",
+    "name": "Live Pitch Deck Roast: Tech Startup Edition (online) — Calmar",
+    "startISO": "2026-12-15T09:00:00+00:00",
+    "endISO": "2026-12-15T10:00:00+00:00",
+    "format": "online",
+    "venue": "Online",
+    "address": "Online",
+    "city": "Online",
+    "topic": "4–6 startup tech pitchano il deck (2 min) + 3 min feedback da panel investitori; voto pubblico",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito; candidature pitch entro 4 Dic",
+    "audience": "Startups / investors",
+    "distKm": null,
+    "distNote": "online",
+    "url": "https://calmar.vc/news/events/live-pitch-deck-roast-tech-startup-edition",
+    "notes": "Fonte web · 10:00–11:00 ora di Vienna · aggiunto 9 Nov 2026",
+    "goodForCards": false,
+    "types": [
+      "Pitch",
+      "Online"
+    ],
+    "zone": "online",
+    "source": "web"
+  },
+  {
     "format": "online",
     "venue": "Online",
     "address": "Online",
@@ -4175,6 +4255,31 @@
       "Fundraising",
       "Online"
     ]
+  },
+  {
+    "id": "web-elsa-pitch-bowl-munich-20261215",
+    "name": "ELSA Pitch Bowl 2026 — Life Science Factory (Munich)",
+    "startISO": "2026-12-15T15:15:00+00:00",
+    "endISO": "2026-12-15T19:00:00+00:00",
+    "format": "offline",
+    "venue": "Life Science Factory Munich @ Helmholtz Pioneer Campus",
+    "address": "Ingolstädter Landstraße 1, 85764 Oberschleißheim, Germany",
+    "city": "Munich",
+    "topic": "15 startup life science pitchano (3 min) a giuria di investitori + networking",
+    "price": "Vedi evento",
+    "priceNote": "prezzo non pubblicato",
+    "audience": "Life science founders / investors",
+    "distKm": 1059,
+    "distNote": "~1059 km da Bath · volo corto",
+    "url": "https://lifescience-factory.com/en/program-detail/life-science-pitch-bowl/",
+    "notes": "Fonte web · ingresso 16:15, pitch dalle 17:20 ora locale · aggiunto 9 Nov 2026",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "Demo day"
+    ],
+    "zone": "eu_west",
+    "source": "web"
   },
   {
     "id": "luma-evt-ar37Wvus7zYdl0J",
