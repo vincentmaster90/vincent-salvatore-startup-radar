@@ -1,177 +1,5 @@
 [
   {
-    "id": "web-demo-day-la-nerdstage-2026-11-12",
-    "name": "Demo Day LA — November 2026 (Nerdstage)",
-    "startISO": "2026-11-12T17:30:00-08:00",
-    "endISO": "2026-11-12T21:00:00-08:00",
-    "format": "offline",
-    "venue": "BLANKSPACES Venice",
-    "address": "606 Venice Blvd., Venice, CA 90291, USA",
-    "city": "Los Angeles",
-    "topic": "Startup pitches & demos davanti ad angel/VC + fireside + demo tables",
-    "price": "~$39 GA",
-    "priceNote": "General Admission ~$39 · Startup Demo ticket separato · Luma",
-    "audience": "Founders, angels, VCs, LA tech community",
-    "distKm": null,
-    "distNote": "USA West Coast",
-    "url": "https://luma.com/DemoDayNov",
-    "notes": "Fonte Luma / Nerdstage · Demo Day LA series",
-    "goodForCards": false,
-    "types": [
-      "Demo day",
-      "Pitch",
-      "VC/Angel networking"
-    ],
-    "zone": "us",
-    "source": "web"
-  },
-  {
-    "id": "luma-evt-vHGzJ7vbVRF6ADG",
-    "name": "Humanmade Hardware Accelerator Demo Day",
-    "startISO": "2026-11-13T01:00:00.000Z",
-    "endISO": "2026-11-13T04:30:00.000Z",
-    "format": "offline",
-    "venue": "San Francisco, CA",
-    "address": "655 Bryant St",
-    "city": "San Francisco",
-    "topic": "Humanmade Hardware Accelerator Demo Day",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": null,
-    "url": "https://luma.com/yoytbej3",
-    "notes": "Fonte Luma · Personal · Host: Humanmade Information",
-    "goodForCards": true,
-    "types": [
-      "Demo day"
-    ],
-    "zone": "us",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-1wiQyJ9js2GTDvB",
-    "name": "US expansion breakfast with SeedLegals and First Citizens Innovation Banking",
-    "startISO": "2026-11-13T08:30:00.000Z",
-    "endISO": "2026-11-13T10:30:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "London, United Kingdom",
-    "city": "London",
-    "topic": "US expansion breakfast with SeedLegals and First Citizens Innovation Banking",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 158,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/8x8k4emc",
-    "notes": "Fonte Luma · SeedLegals Events Calendar · Host: SeedLegals, Anthony Rose",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-uZV0zBISxwyGGDF",
-    "name": "Founder x Investor: Fundraising for Robotics & Physical AI",
-    "startISO": "2026-11-13T09:30:00.000Z",
-    "endISO": "2026-11-13T12:30:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "London, United Kingdom",
-    "city": "London",
-    "topic": "Founder x Investor (Grishin Robotics VC): fundraising per startup robotics & physical AI",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito (approvazione richiesta)",
-    "audience": "Founders / investors / startup community",
-    "distKm": 158,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/tpmc1dl4",
-    "notes": "Fonte Luma · Grishin Robotics VC · Host: Pallavi Jayashankar, Tatiana Klim, Dmitry Grishin · 13 Nov 09:30–12:30 · indirizzo dopo registrazione",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "web-eit-ai-lab-grand-finale-2026-11-13",
-    "name": "EIT AI Entrepreneurs Lab Grand Finale — Amsterdam",
-    "startISO": "2026-11-13T14:00:00+01:00",
-    "endISO": "2026-11-13T17:00:00+01:00",
-    "format": "offline",
-    "venue": "AI House",
-    "address": "AI House, Amsterdam",
-    "city": "Amsterdam",
-    "topic": "Pitch di founder AI & Robotics a investitori e corporate (European AI Innovation Month)",
-    "price": "Vedi link",
-    "priceNote": "registrazione sul sito EIT",
-    "audience": "Founders, angel, VC",
-    "distKm": null,
-    "distNote": null,
-    "url": "https://www.eit.europa.eu/news-events/events/eit-ai-entrepreneurs-lab-grand-finale",
-    "notes": "Fonte EIT · AI House Amsterdam",
-    "goodForCards": true,
-    "types": [
-      "Pitch",
-      "Demo day",
-      "VC/Angel networking"
-    ],
-    "zone": "eu_west",
-    "source": "web"
-  },
-  {
-    "id": "luma-evt-p6QTw0RUSEE45V2",
-    "name": "How Deep Is Your Tech? Deeptech Networking Event",
-    "startISO": "2026-11-13T18:00:00.000Z",
-    "endISO": "2026-11-13T23:00:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "London, United Kingdom",
-    "city": "London",
-    "topic": "How Deep Is Your Tech? Deeptech Networking Event",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 157,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/zah08t2w",
-    "notes": "Fonte Luma · Personal · Host: MODERN LEGAL LIMITED, London Defence Tech Network, Ahmet Guler",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-ERZD24Q6cHJb06E",
-    "name": "GTM Sprint Demo Day",
-    "startISO": "2026-11-15T12:00:00.000Z",
-    "endISO": "2026-11-15T16:00:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "Encode Hub",
-    "city": "London",
-    "topic": "GTM Sprint Demo Day",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 158,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/ce8gicbm",
-    "notes": "Fonte Luma · Personal · Host: Kateryna Golushko, Encode Club, Momentum Mill",
-    "goodForCards": true,
-    "types": [
-      "Demo day"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
     "id": "eb-dorset-business-angels-pitch-20261116",
     "name": "Dorset Business Angels Pitch Presentation Event — November 2026",
     "startISO": "2026-11-16T17:00:00+00:00",
@@ -1607,6 +1435,31 @@
     "source": "eventbrite"
   },
   {
+    "id": "luma-evt-4QgS31sV2JDLZJH",
+    "name": "Female Founder Pitch Night",
+    "startISO": "2026-11-25T18:00:00.000Z",
+    "endISO": "2026-11-25T21:00:00.000Z",
+    "format": "offline",
+    "venue": "Lewis Silkin LLP, Arbor",
+    "address": "Lewis Silkin LLP, Arbor, 255 Blackfriars Rd, London SE1 9AX",
+    "city": "London",
+    "topic": "networkd: 6 female founder pitchano dal vivo a una giuria di investitori (Tenity, Madonna Capital, angel) + networking founder/investitori",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito con approvazione; al momento SOLD OUT (lista d'attesa su Luma)",
+    "audience": "Founder, angel, VC",
+    "distKm": 157,
+    "distNote": "~155 km da Bath · ~1h30 in treno (GWR) · ~2h30 in auto",
+    "url": "https://luma.com/82lse1ut",
+    "notes": "Fonte Luma · networkd · Host: Jan McGinley",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
     "id": "eb-ignite-demo-day-2026-oxford-20261125",
     "name": "Ignite Demo Day 2026 (Oxford Brookes)",
     "startISO": "2026-11-25T18:00:00Z",
@@ -2266,6 +2119,31 @@
     "source": "web"
   },
   {
+    "priceNote": "gratuito, investor-only con approvazione (Luma)",
+    "audience": "Angel investors, VC, family office",
+    "notes": "Fonte Luma + LinkedIn Angels Den",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-angels-den-townhall-manchester-2026-12-02",
+    "name": "Angels Den Investor Townhall — Beyond London (Manchester/Salford)",
+    "startISO": "2026-12-02T12:00:00+00:00",
+    "endISO": "2026-12-02T16:30:00+00:00",
+    "format": "offline",
+    "venue": "Salford (con TLT; indirizzo dopo approvazione)",
+    "address": "Salford / Manchester",
+    "city": "Manchester",
+    "topic": "Evento solo investitori (angel, HNWI, family office, VC): panel sugli investimenti fuori Londra + 4 startup pitchano + dibattito",
+    "price": "Gratis / Free",
+    "distKm": 234,
+    "distNote": "~234 km da Bath · ~3h in treno/auto",
+    "url": "https://luma.com/u5yc7w6k",
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "uk"
+  },
+  {
     "goodForCards": true,
     "priceNote": "vedi link",
     "audience": "Founder, angel, VC",
@@ -2340,6 +2218,30 @@
     "source": "web",
     "distKm": 155,
     "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto"
+  },
+  {
+    "priceNote": "vedi link",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte techSPARK (categoria Investor & Startup)",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-techspark-quantum-ai-bristol-2026-12-02",
+    "name": "Two Technologies, No Playbook: Quantum-AI Convergence (techSPARK, Bristol)",
+    "startISO": "2026-12-02T16:30:00+00:00",
+    "endISO": "2026-12-02T19:00:00+00:00",
+    "format": "offline",
+    "venue": "Sloane Robinson Building",
+    "address": "Sloane Robinson Building, Cattle Market Road, Redcliffe, Bristol BS1 6AZ",
+    "city": "Bristol",
+    "topic": "Panel per founder early-stage e investitori su quantum + AI: governance, funding e policy + networking (secondario: niente pitch)",
+    "price": "Vedi link",
+    "distKm": 18,
+    "distNote": "~18 km da Bath centro · ~15 min treno / 30–40 min auto",
+    "url": "https://techspark.co/event-details/two-technologies-no-playbook-governing-the-quantum-ai-convergence/",
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "bristol_bath"
   },
   {
     "audience": "OION angels / investors",
@@ -2517,6 +2419,30 @@
     ],
     "zone": "bristol_bath",
     "source": "web"
+  },
+  {
+    "priceNote": "biglietto guest gratuito (registrazione entro 1 dic)",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte AllEvents (biglietti via Eventbrite)",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-eyesquare-startup-pitch-night-berlin-2026-12-03",
+    "name": "Startup Pitch Night December 2026 (Berlino) — eye square x BBC Hub",
+    "startISO": "2026-12-03T17:00:00+00:00",
+    "endISO": "2026-12-03T20:00:00+00:00",
+    "format": "offline",
+    "venue": "BBC Hub (Black Business & Career Hub)",
+    "address": "Lohmeyerstraße 4, Berlin",
+    "city": "Berlin",
+    "topic": "Pitch night: startup pitchano 10'+5' Q&A a una giuria (ecosistema startup, investitori, accademia); premi €500/€300/€200 + networking. 18:00–21:00 ora di Berlino",
+    "price": "Gratis / Free",
+    "distKm": 1086,
+    "distNote": "~1086 km da Bath · volo",
+    "url": "https://allevents.in/berlin/startup-pitch-night-december-2026/100002003811267442",
+    "types": [
+      "Pitch"
+    ],
+    "zone": "eu_west"
   },
   {
     "id": "luma-evt-vsU2aQNrT1HljOf",
@@ -2993,6 +2919,30 @@
     "source": "eventbrite"
   },
   {
+    "priceNote": "vedi link",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte Eventbrite",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-tech-launchpads-founders-investors-london-2026-12-08",
+    "name": "Founders, Investors & Service Providers Networking — Tech Launchpads",
+    "startISO": "2026-12-08T18:30:00+00:00",
+    "endISO": "2026-12-08T21:00:00+00:00",
+    "format": "offline",
+    "venue": "Middle Eight Hotel, Covent Garden",
+    "address": "66 Great Queen Street, London WC2B 5BX",
+    "city": "London",
+    "topic": "Networking founder, angel investor, VC e fornitori per startup (secondario: niente pitch formali)",
+    "price": "Vedi link (Eventbrite)",
+    "distKm": 156,
+    "distNote": "~155 km da Bath · ~1h30 in treno (GWR) · ~2h30 in auto",
+    "url": "https://www.eventbrite.co.uk/e/founders-investors-service-providers-networking-tickets-2004435003052",
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra"
+  },
+  {
     "goodForCards": true,
     "priceNote": "vedi link",
     "audience": "Founder, angel, VC",
@@ -3272,6 +3222,31 @@
     "source": "web"
   },
   {
+    "priceNote": "per investitori; guest pass su richiesta (enquiries@minerva.uk.net)",
+    "audience": "Angel investors / founders",
+    "notes": "Fonte Eventbrite / EventsList",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-minerva-pitch-coventry-2026-12-10",
+    "name": "Minerva Business Angels — Pitch Event (Coventry)",
+    "startISO": "2026-12-10T13:00:00+00:00",
+    "endISO": "2026-12-10T18:00:00+00:00",
+    "format": "offline",
+    "venue": "Scarman (University of Warwick)",
+    "address": "Scarman Road, Coventry CV4 7AL",
+    "city": "Coventry",
+    "topic": "Pitch di aziende early-stage delle Midlands con opportunità S/EIS a investitori angel + networking",
+    "price": "Gratis per membri Minerva; guest pass £50 + IVA",
+    "distKm": 124,
+    "distNote": "~124 km da Bath · ~2h in auto/treno",
+    "url": "https://www.eventbrite.co.uk/e/minerva-business-angels-pitch-event-coventry-tickets-1978884337323",
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "uk"
+  },
+  {
     "id": "web-vc-fast-pitch-online-2026-12-10",
     "name": "December 2026 Online VC Fast Pitch (Black Dog Venture Partners)",
     "startISO": "2026-12-10T13:00:00-05:00",
@@ -3345,6 +3320,56 @@
     ],
     "zone": "online",
     "source": "web"
+  },
+  {
+    "priceNote": "vedi link",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte Eventbrite · posti limitati",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-angels-pitch-plate-london-2026-12-10",
+    "name": "Angels' Pitch and Plate London — Venture.Community",
+    "startISO": "2026-12-10T16:30:00+00:00",
+    "endISO": "2026-12-10T21:00:00+00:00",
+    "format": "offline",
+    "venue": "The Royal Air Force Club",
+    "address": "128 Piccadilly, London W1J 7PY",
+    "city": "London",
+    "topic": "Pitch curati di startup early-stage (pre-seed–Series A) davanti ad angel investor + Q&A, poi cena di networking; dress code smart casual",
+    "price": "Vedi link (Eventbrite)",
+    "distKm": 156,
+    "distNote": "~155 km da Bath · ~1h30 in treno (GWR) · ~2h30 in auto",
+    "url": "https://www.eventbrite.co.uk/e/angels-pitch-and-plate-london-hosted-by-venturecommunity-tickets-2005124224532",
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "londra"
+  },
+  {
+    "priceNote": "vedi link",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte Eventbrite + setsquared-bristol.co.uk/news/events",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-setsquared-festive-connect-bristol-2026-12-10",
+    "name": "Bristol Innovations & SETsquared — Festive Connect (pitch nuovi membri)",
+    "startISO": "2026-12-10T18:00:00+00:00",
+    "endISO": "2026-12-10T20:30:00+00:00",
+    "format": "offline",
+    "venue": "Sloane Robinson Building, Bristol Innovations Zone",
+    "address": "Sloane Robinson Building, Cattle Market Road, Redcliffe, Bristol BS1 6AZ",
+    "city": "Bristol",
+    "topic": "Social natalizio dell'incubatore SETsquared Bristol: brevi pitch dei nuovi membri startup, premio 'Success of the Month', drinks & pizza con founder, mentor e community",
+    "price": "Vedi link (Eventbrite)",
+    "distKm": 18,
+    "distNote": "~18 km da Bath centro · ~15 min treno / 30–40 min auto",
+    "url": "https://www.eventbrite.co.uk/e/bristol-innovations-and-setsquareds-festive-connect-tickets-2003316233783",
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "bristol_bath"
   },
   {
     "format": "online",
@@ -3449,6 +3474,55 @@
     "source": "web"
   },
   {
+    "id": "luma-evt-0A2QxC7k92OXd1b",
+    "name": "Founders, Funders & Festive Feelings",
+    "startISO": "2026-12-15T17:30:00.000Z",
+    "endISO": "2026-12-15T21:30:00.000Z",
+    "format": "offline",
+    "venue": "BitCapital (Angel Invest), Berlino",
+    "address": "Dircksenstrasse 4, 10179 Berlin",
+    "city": "Berlin",
+    "topic": "Angel Invest: drink natalizi con founder e investitori (angel/VC) per chiudere l'anno — niente pitch deck richiesti",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito con approvazione",
+    "audience": "Founder, angel investor",
+    "distKm": 1086,
+    "distNote": "~1086 km da Bath · volo",
+    "url": "https://luma.com/angel-pv25",
+    "notes": "Fonte Luma · Angel Invest · Host: Lara, Olli Moser",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "luma"
+  },
+  {
+    "priceNote": "gratuito con approvazione",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte Luma (Canopy Community)",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-canopy-global-demo-night-2026-12-16",
+    "name": "Global Demo Night (Remote) — Canopy · Dec",
+    "startISO": "2026-12-16T14:00:00+00:00",
+    "endISO": "2026-12-16T15:00:00+00:00",
+    "format": "online",
+    "venue": "Online (link dopo approvazione)",
+    "address": "Online",
+    "city": "Online",
+    "topic": "Demo night online: founder MVP/validation fanno 5' di demo + 5' Q&A con community di founder e investitori",
+    "price": "Gratis / Free",
+    "distKm": null,
+    "distNote": "online",
+    "url": "https://luma.com/a5rttnrx",
+    "types": [
+      "Demo day",
+      "Pitch"
+    ],
+    "zone": "online"
+  },
+  {
     "id": "luma-49c3rxyd",
     "name": "Enchant Online Pitch Party (online)",
     "startISO": "2026-12-16T16:00:00+00:00",
@@ -3520,6 +3594,30 @@
     ],
     "zone": "online",
     "source": "web"
+  },
+  {
+    "priceNote": "vedi link",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte roastmystartup.fr · orario di fine non indicato",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-roast-my-startup-paris-2026-12-17",
+    "name": "Roast My Startup — Station F (Parigi)",
+    "startISO": "2026-12-17T17:00:00+00:00",
+    "endISO": "2026-12-17T20:00:00+00:00",
+    "format": "offline",
+    "venue": "Station F",
+    "address": "5 Parvis Alan Turing, 75013 Paris",
+    "city": "Paris",
+    "topic": "Show di pitch: startup con 90 secondi per convincere una giuria di investitori e imprenditori (100 M€+ gestiti); 18:00 ora di Parigi",
+    "price": "Vedi link",
+    "distKm": 438,
+    "distNote": "~438 km da Bath · volo o Eurostar",
+    "url": "https://roastmystartup.fr/",
+    "types": [
+      "Pitch"
+    ],
+    "zone": "eu_west"
   },
   {
     "id": "web-pitch-slam-pre-holidays-2026-12-17",
@@ -3672,6 +3770,56 @@
     "source": "eventbrite"
   },
   {
+    "priceNote": "gratuito con approvazione (Luma)",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte Luma (Canopy Community) + setsquared-bristol.co.uk",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-canopy-demo-night-bristol-2027-01-13",
+    "name": "Demo Night Bristol — Canopy x SETsquared Bristol (13 Jan)",
+    "startISO": "2027-01-13T17:30:00+00:00",
+    "endISO": "2027-01-13T19:30:00+00:00",
+    "format": "offline",
+    "venue": "Sloane Robinson Building, Temple Quarter Enterprise Campus",
+    "address": "Sloane Robinson Building, Cattle Market Road, Bristol BS1 6AZ",
+    "city": "Bristol",
+    "topic": "Demo night: startup early-stage fanno 5' di demo + 5' di Q&A con panel; premio People's Choice; founder, investitori e studenti",
+    "price": "Gratis / Free",
+    "distKm": 18,
+    "distNote": "~18 km da Bath centro · ~15 min treno / 30–40 min auto",
+    "url": "https://luma.com/qiw1itko",
+    "types": [
+      "Demo day",
+      "Pitch"
+    ],
+    "zone": "bristol_bath"
+  },
+  {
+    "priceNote": "vedi link",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte acceleratingasia.com",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-accelerating-asia-c14-demo-day-singapore-2027-01-14",
+    "name": "Accelerating Asia — Cohort 14 Demo Day (Singapore)",
+    "startISO": "2027-01-14T06:30:00+00:00",
+    "endISO": "2027-01-14T09:00:00+00:00",
+    "format": "offline",
+    "venue": "Singapore (sede comunicata dopo RSVP)",
+    "address": "Singapore",
+    "city": "Singapore",
+    "topic": "Demo day acceleratore: 8 startup del Sud/Sud-Est asiatico davanti a angel, VC, family office; 14:30–17:00 ora di Singapore (versione virtuale Zoom il 21 gen)",
+    "price": "Vedi link (RSVP)",
+    "distKm": 11002,
+    "distNote": "~11002 km da Bath · volo intercontinentale",
+    "url": "https://www.acceleratingasia.com/events/cohort-14-demo-day-singapore",
+    "types": [
+      "Demo day",
+      "VC/Angel networking"
+    ],
+    "zone": "asia"
+  },
+  {
     "id": "eb-vc-fast-pitch-2027-01-14",
     "name": "January 2027 Online VC Fast Pitch (Black Dog Venture Partners)",
     "startISO": "2027-01-14T18:00:00+00:00",
@@ -3772,6 +3920,31 @@
     ],
     "zone": "londra",
     "source": "web"
+  },
+  {
+    "priceNote": "ticket standard a donazione; approvazione richiesta",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte Luma · candidature pitch entro 11 gen",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-belle-sf-ai-demo-day-2027-01-20",
+    "name": "SF AI Demo Day in Jan — B.E.L.L.E Community (San Francisco)",
+    "startISO": "2027-01-21T02:00:00+00:00",
+    "endISO": "2027-01-21T05:30:00+00:00",
+    "format": "offline",
+    "venue": "San Francisco (indirizzo dopo registrazione)",
+    "address": "San Francisco, CA",
+    "city": "San Francisco",
+    "topic": "Demo day AI: founder AI-native fanno demo live (pitch 5' o 1') davanti a investitori ed enterprise leader, con premi. 20 gen 18:00 ora SF",
+    "price": "Gratis–$20 (donazione)",
+    "distKm": 8519,
+    "distNote": "~8519 km da Bath · volo intercontinentale",
+    "url": "https://luma.com/mmtglyok",
+    "types": [
+      "Demo day",
+      "Pitch"
+    ],
+    "zone": "us"
   },
   {
     "id": "web-grand-pitch-fest-sf-2027-01-21",
@@ -4048,6 +4221,32 @@
     ],
     "zone": "europe",
     "source": "web"
+  },
+  {
+    "priceNote": "gratuito con approvazione",
+    "audience": "Founder, angel, VC",
+    "notes": "Fonte Luma (Canopy Community)",
+    "goodForCards": true,
+    "source": "web",
+    "id": "web-canopy-demonightlx-lisbon-2027-02-03",
+    "name": "DemoNightLx — Canopy Demo Night Lisbon (Speed Date Edition)",
+    "startISO": "2027-02-03T18:30:00+00:00",
+    "endISO": "2027-02-03T21:00:00+00:00",
+    "format": "offline",
+    "venue": "The Royal Rawness (Unicorn Factory, Beato)",
+    "address": "Av. Infante Dom Henrique 143, 1950-406 Lisboa",
+    "city": "Lisbon",
+    "topic": "Fireside chat + speed demo: 3–5 startup presentano tavolo per tavolo a founder e investitori; a volte reverse pitch degli investitori",
+    "price": "Gratis / Free",
+    "distKm": 1503,
+    "distNote": "~1503 km da Bath · volo",
+    "url": "https://luma.com/yfdq1m3x",
+    "types": [
+      "Demo day",
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west"
   },
   {
     "id": "web-demo-directory-demo-day-2027-02-04",
